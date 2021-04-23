@@ -2,6 +2,7 @@ body {
 	font-family: Agency FB;
     top: 15%;
     font-size: 300%;
+    text-align: center;
 }
 .container{
 	width: 700px;
@@ -24,4 +25,7 @@ body {
 	width:100px;
 	height: 50px;
 	font-size: 70%;
+}
+.list{
+	list-style-type: none;
 }
